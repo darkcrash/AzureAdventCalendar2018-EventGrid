@@ -1,0 +1,14 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+*.suo
+/.vs
+/obj
+/local.settings.json
+/*.csproj.user
+/bin
+/Properties/PublishProfiles
+/extensions.sln
+/extensions.csproj
+/eventgrid-slack.csproj
